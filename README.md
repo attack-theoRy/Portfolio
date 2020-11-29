@@ -2,6 +2,8 @@
 Pirooz Wallace
 11/28/2020
 
+Contact Info: PiroozWallace@outlook.com
+
 Updated Portfolio
 
 GitHub Repo: https://github.com/attack-theoRy/Portfolio
@@ -19,6 +21,10 @@ Technologies Used:
 - Perfect Scrollbar
 - PHP for forms
 - Template from Envato
+- Visual CV
+
+Description:
+This is my portfolio / resume site. I used a template from Envato. It has links to recent projects I've done as well as links to my Github and LinkedIn profile. I also created a resume that's downloadable from VisualCV.com. 
 
 
 
