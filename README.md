@@ -24,7 +24,22 @@ Technologies Used:
 - Visual CV
 
 Description:
-This is my portfolio / resume site. I used a template from Envato. It has links to recent projects I've done as well as links to my Github and LinkedIn profile. I also created a resume that's downloadable from VisualCV.com. 
+This is my portfolio / resume site. I used a responsive template from Envato. It has info about myself for potential employers and ways to contact me including links to my GitHub profile and LinkedIn.
+
+<img src='img/frontpage.png' alt='front page'>
+
+There are links to recent projects I've done as well as links to my Github and LinkedIn profile. I added MIT licenses and contact info to all my readmes as well as updated screenshots for some of them.
+
+
+<img src='img/PortfolioExample.png' alt='portfolio'>
+
+I also created a resume that's also accessible as a downloadable pdf from VisualCV.com. 
+
+<img src='img/ResumeExample.png' alt='resume'>
+
+I used google maps API to show a map of the general area where I live as well as info to contact me.
+
+<img src='img/contactSample.png alt='contact card'>
 
 
 
@@ -34,7 +49,7 @@ This is my portfolio / resume site. I used a template from Envato. It has links 
 MIT License
 -----------
 
-Copyright (c) 2020 Pirooz Wallace (https://attack-theory.github.io/Portfolio/cards/index.html)
+Copyright (c) 2020 Pirooz Wallace (https://attack-theory.github.io/Portfolio/)
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
 files (the "Software"), to deal in the Software without
