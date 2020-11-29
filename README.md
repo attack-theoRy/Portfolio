@@ -8,7 +8,7 @@ Updated Portfolio
 
 GitHub Repo: https://github.com/attack-theoRy/Portfolio
 
-GitHub Pages: https://attack-theory.github.io/Portfolio/cards/index.html
+GitHub Pages: https://attack-theory.github.io/Portfolio/
 
 
 Technologies Used:
