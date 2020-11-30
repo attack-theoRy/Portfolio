@@ -3,6 +3,7 @@ Pirooz Wallace
 11/28/2020
 
 Contact Info: PiroozWallace@outlook.com
+LinkedIn : https://www.linkedin.com/in/piroozwallace
 
 Updated Portfolio
 
@@ -33,13 +34,13 @@ There are links to recent projects I've done as well as links to my Github and L
 
 <img src='img/PortfolioExample.png' alt='portfolio'>
 
-I also created a resume that's also accessible as a downloadable pdf from VisualCV.com. 
+I created a resume that's also accessible as a downloadable pdf from VisualCV.com. 
 
 <img src='img/ResumeExample.png' alt='resume'>
 
 I used google maps API to show a map of the general area where I live as well as info to contact me.
 
-<img src='img/contactSample.png alt='contact card'>
+<img src='img/contactSample.png' alt='contact card'>
 
 
 
