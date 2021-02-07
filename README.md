@@ -1,22 +1,31 @@
-# Portfolio
+# Portfolio 2021
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](#license) 
 
 Pirooz Wallace
 02/06/2021
 
-Contact Info: PiroozWallace@outlook.com
-LinkedIn : https://www.linkedin.com/in/piroozwallace
-Resume : https://www.visualcv.com/piroozw/pdf/
-
-Updated Portfolio
+GitHub Pages: https://attack-theory.github.io/Portfolio/
 
 GitHub Repo: https://github.com/attack-theoRy/Portfolio
 
-GitHub Pages: https://attack-theory.github.io/Portfolio/
+
+## Table of Contents
+* [Links](#links)
+* [Description](#description)
+* [Tech](#tech)
+* [License](#license)
+* [Questions](#Questions)
+* [Credits](#Credits)
 
 
-Technologies Used:
+## Links
+
+LinkedIn : https://www.linkedin.com/in/piroozwallace
+Resume : https://www.visualcv.com/piroozw/pdf/
+
+
+## Tech
 - Bootstrap
 - JQuery
 - Google Maps API
@@ -47,9 +56,12 @@ I used google maps API to show a map of the general area where I live as well as
 <img src='img/contactSample.png' alt='contact card'>
 
 
+## Questions
+
+Contact Info: PiroozWallace@outlook.com
 
 
-
+## License
 
 MIT License
 -----------
