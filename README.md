@@ -1,9 +1,13 @@
 # Portfolio
+
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](#license) 
+
 Pirooz Wallace
 02/06/2021
 
 Contact Info: PiroozWallace@outlook.com
 LinkedIn : https://www.linkedin.com/in/piroozwallace
+Resume : https://www.visualcv.com/piroozw/pdf/
 
 Updated Portfolio
 
