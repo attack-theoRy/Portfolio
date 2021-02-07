@@ -1,6 +1,6 @@
 # Portfolio
 Pirooz Wallace
-11/28/2020
+02/06/2021
 
 Contact Info: PiroozWallace@outlook.com
 LinkedIn : https://www.linkedin.com/in/piroozwallace
@@ -50,7 +50,7 @@ I used google maps API to show a map of the general area where I live as well as
 MIT License
 -----------
 
-Copyright (c) 2020 Pirooz Wallace (https://attack-theory.github.io/Portfolio/)
+Copyright (c) 2021 Pirooz Wallace (https://attack-theory.github.io/Portfolio/)
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
 files (the "Software"), to deal in the Software without
