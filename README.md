@@ -15,10 +15,8 @@ Resume : https://www.visualcv.com/piroozw/pdf/
 ## Table of Contents
 * [Description](#description)
 * [Tech](#tech)
-* [License](#license)
 * [Questions](#Questions)
-* [Credits](#Credits)
-
+* [License](#license)
 
 
 ## Tech
